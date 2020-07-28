@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <table style="border: none;">
   <tr>
-    <td><img src="http://ronininstitute.org/wp-content/uploads/2017/07/Lungsi_Sharma.png" /></td>
+    <td width=20%><img src="http://ronininstitute.org/wp-content/uploads/2017/07/Lungsi_Sharma.png" /></td>
     <td>
       <ul>
         <li><h2>&#9203; Very Active projects</h2></li>
