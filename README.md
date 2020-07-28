@@ -44,10 +44,10 @@ Here are some ideas to get you started:
           <a href="https://github.com/myHBPwork/PyNN"><img src="http://neuralensemble.org/static/photos/pynn_logo.png" width="5%"> &#128281;<img src="https://moose.ncbs.res.in/readthedocs/_static/moose_logo.png" width="10%"></a>
           Python Based PyNN integration of MOOSE simulator as the backend
         </li>
-        <li>
+        <!--<li>
           <a href="https://github.com/lungsi/diman"><img src="https://github.com/lungsi/diman/raw/master/resources/images/logo/diman.png" width="10%"></a>
           Clojure Based Dimensional Analysis Tool
-        </li>
+        </li> -->
         </ul>
         <li><h2>&#8987; Less Active projects</h2></li>
         <ul>
